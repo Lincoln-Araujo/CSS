@@ -1,0 +1,14 @@
+/*The attribute selector can be used to target HTML elements that already contain attributes.  
+Elements of the same type can be targeted differently by their attribute or attribute value.  */
+
+a[href*='florence'] {
+  color: lightgreen;
+}
+
+a[href*='beijing'] {
+  color: lightblue;
+}
+
+a[href*='seoul'] {
+  color: lightpink;
+}
