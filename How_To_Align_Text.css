@@ -1,0 +1,7 @@
+/* The text-align property will align text to the element that holds it */
+
+/* VALUES: left - center - right - justify*/
+
+element {
+  text-align: center;
+}
