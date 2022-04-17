@@ -1,0 +1,5 @@
+/* The box-sizing property controls the box model used by the browser. */
+
+* {
+  box-sizing: border-box;
+}
