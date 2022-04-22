@@ -1,0 +1,13 @@
+/* any content with dimensions larger than the parent element will be hidden from view. */
+
+.parent_element {
+  width: 50%;
+  height: 200px;
+  overflow: hidden;
+}
+
+.parent_element img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
