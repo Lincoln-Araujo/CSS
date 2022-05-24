@@ -1,0 +1,9 @@
+/* visibility:hidden- It is not visible but gets up it’s original space whereas,*/
+div {
+  visibility: hidden;
+}
+
+/* display:none- It is hidden and takes no space. */ 
+.class {
+  display: none
+}
